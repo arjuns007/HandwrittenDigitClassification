@@ -10,8 +10,9 @@
 
 5. Achieved 99.62% Training Accuracy and 98.76% Test Accuracy.
 
+6. Research Project Report: https://drive.google.com/file/d/1SzedlpKCXfgtCiuU7ZeRKQlD4Qf71Twg/view?usp=sharing
 
-Check out the model performance:
+7. Check out the model performance:
 
 https://user-images.githubusercontent.com/44583018/126762706-1d495382-2259-45ca-acf5-0a8411c8cdef.mp4
 
