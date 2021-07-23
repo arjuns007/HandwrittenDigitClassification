@@ -9,3 +9,10 @@
 4. Another unique feature that was implemented was that we trained our model to handle image data augmentation (that is handle rotated images as well) keeping in mind all the use cases.
 
 5. Achieved 99.62% Training Accuracy and 98.76% Test Accuracy.
+
+
+Check out the model performance:
+
+https://user-images.githubusercontent.com/44583018/126762706-1d495382-2259-45ca-acf5-0a8411c8cdef.mp4
+
+
