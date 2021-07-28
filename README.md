@@ -10,7 +10,7 @@
 
 5. Achieved 99.62% Training Accuracy and 98.76% Test Accuracy.
 
-6. Our this Research Paper: "Handwritten Digit Classification" has been accepted and published in the International Journal of Emerging Technologies and Innovative Research(JETIR).
+6. Our this Research Paper: "Handwritten Digit Classification" has been accepted and published in the International Journal of Emerging Technologies and Innovative Research (JETIR).
 
 7. Published Research Paper Link: https://www.jetir.org/view?paper=JETIR2107649
 
